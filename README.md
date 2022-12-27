@@ -7,11 +7,11 @@ This is a classwork example in which web scraping is performed to gather informa
 
 Using Python and webscraping techniques, a table holding Mars facts was created. News information can also be easily extracted in one piece or through an iteration.
 
-### New table created using webscraping:
+### New table of Mars info created using webscraping:
 ![Mars table image](mars_table.png)
 
-### Extracted piece by piece:
+### News info extracted piece by piece:
 ![Mars News item](mars_news1.png)
 
-### Extracted through an iteration:
+### News info extracted through an iteration:
 ![Mars News item](mars_news2.png)
