@@ -3,12 +3,13 @@
 This is a classwork example in which web scraping is performed to gather information about Mars for "SpaceForward", a (fake) aerospace company that is researching resource extraction from nearby planets. I collected general and mission related news items and information to be used for future database queries. 
 
 ---
-# Summary 
+## Summary 
 
-Using Python and webscraping techniques, a table holding Mars facts was created:
+Using Python and webscraping techniques, a table holding Mars facts was created. News information can also be easily extracted in one piece or through an iteration.
+
+### New table created using webscraping:
 ![Mars table image](mars_table.png)
 
-News information can also be easily extracted in one piece or through an iteration.
 ### Extracted piece by piece:
 ![Mars News item](mars_news1.png)
 
